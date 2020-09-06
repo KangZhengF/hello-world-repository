@@ -1,4 +1,4 @@
-# resources
+# resource
 ### This is my first repository which is used to store some resources.
 
 ### 这是我用来存放资源的仓库
